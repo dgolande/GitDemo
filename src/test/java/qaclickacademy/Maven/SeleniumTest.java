@@ -22,6 +22,8 @@ public class SeleniumTest
 	public void display()
 	{
 		System.out.println("First method");
+		System.out.println("First method 1");
+		System.out.println("First method 2");
 	}
 
 	@Test
