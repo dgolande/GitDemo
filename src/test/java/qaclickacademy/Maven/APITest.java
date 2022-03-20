@@ -16,6 +16,11 @@ public class APITest
 		System.out.println("Beliver");
 		
 		System.out.println("Achiver");
+		
+		System.out.println("Few more steps");
+		
+		System.out.println("Few more actions");
+		
 	}
 	
 	@Test

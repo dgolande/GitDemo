@@ -38,6 +38,8 @@ public class SeleniumTest
 	public void show()
 	{
 		System.out.println("Second method");
+		
+		System.out.println("Second hand method");
 	}
 	
 }
