@@ -10,6 +10,12 @@ public class APITest
 	public void greater()
 	{
 		System.out.println("Greater");
+		
+		System.out.println("Greatest");
+		
+		System.out.println("Beliver");
+		
+		System.out.println("Achiver");
 	}
 	
 	@Test

@@ -24,6 +24,14 @@ public class SeleniumTest
 		System.out.println("First method");
 		System.out.println("First method 1");
 		System.out.println("First method 2");
+		
+		
+		System.out.println("First method 3");
+		System.out.println("First method 4");
+		System.out.println("First method 5");
+		
+		
+		
 	}
 
 	@Test
