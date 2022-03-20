@@ -29,4 +29,10 @@ public class APITest
 		System.out.println("Smaller");
 	}
 
+	@Test
+	public void neutral()
+	{
+		System.out.println("Neutral");
+	}
+	
 }

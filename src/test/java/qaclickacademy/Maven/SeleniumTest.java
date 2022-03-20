@@ -42,4 +42,11 @@ public class SeleniumTest
 		System.out.println("Second hand method");
 	}
 	
+	
+	public void insert()
+	{
+		System.out.println("Insert method");
+	}
+	
+	
 }
