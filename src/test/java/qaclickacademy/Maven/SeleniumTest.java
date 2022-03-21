@@ -48,5 +48,10 @@ public class SeleniumTest
 		System.out.println("Insert method");
 	}
 	
+	public void plugin()
+	{
+		System.out.println("PlugIN method");
+	}
+	
 	
 }
